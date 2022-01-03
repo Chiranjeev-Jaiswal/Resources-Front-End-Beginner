@@ -17,7 +17,7 @@ I'm using some emoticons to give you more information on these links.
 3. 🔝 indicate that the link is a reference
 4. 📹 is present when video content is available
 
----
+----
 ## Table of Contents
 1. **[Start here](#start-here)**
 2. **[Learn HTML](#learn-html)**
